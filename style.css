@@ -154,7 +154,7 @@ article address {
 /* table meta & balance */
 table.meta {
     float: left;
-    width: 36%;
+    width: 50%;
 }
 
 table.balance {
@@ -175,7 +175,7 @@ table.meta th {
 }
 
 table.meta td {
-    width: 60%;
+    width: 80%;
 }
 
 /* table items */
